@@ -1,0 +1,23 @@
+#page{ 
+	height: 400px;
+	width: 35%;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	top: 200px;  
+}
+
+#buttons{ 
+	height: 50px;
+	width: 15%;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	top: 250px; 
+	padding-top: 20px; 
+}
+
+img{
+	height: 400px;
+	width: 600px;
+}
